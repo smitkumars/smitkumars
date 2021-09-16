@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smitkumars
 - 👀 I’m interested in python
-- 🌱 I’m currently learning django framework
+- 🌱 I’m working on django framework
 - 💞️ I’m looking to collaborate on data science and deployment
 - 📫 How to reach me smitkumars1991@gmail.com
 
